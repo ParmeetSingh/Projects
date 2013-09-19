@@ -1,0 +1,20 @@
+
+First Come First Serve
+Waiting time----79.428571
+Turnaround time-223.428571
+
+Shortest Remaining time first
+Waiting time----27.571429
+Turnaround time-171.571429
+
+Round Robin for Quantum Value 50
+Waiting time----50.357143
+Turnaround time-194.357143
+
+Round Robin for Quantum Value 100
+Waiting time----64.642857
+Turnaround time-208.642857
+
+Round Robin for Quantum Value 500
+Waiting time----79.500000
+Turnaround time-223.500000
